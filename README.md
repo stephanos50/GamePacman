@@ -13,6 +13,15 @@
 
 ---
 
+## Objectifs
+
+- Appliquer les principes SOLID et les patterns de conception pour une architecture maintenable.
+
+- Implémenter une architecture MVC pour séparer les responsabilités.
+
+- Illustrer des concepts tels que l'Observer, le Singleton, la Façade, et bien d'autres.
+  
+
 ## Présentation du Projet
 Pacem est un jeu immersif inspiré de Pac-Man qui combine aventure et stratégie. Ce projet est divisé en plusieurs itérations, chacune apportant des fonctionnalités et des améliorations basées sur les principes de conception logicielle. Le jeu inclut des personnages mobiles, des règles dynamiques et une architecture modulaire.
 
