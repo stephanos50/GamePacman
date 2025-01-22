@@ -10,8 +10,6 @@
 7. [Instructions pour le Développement](#instructions-pour-le-developpement)
 8. [Tests](#tests)
 9. [Déploiement](#deploiement)
-10. [Contributeurs](#contributeurs)
-11. [Licence](#licence)
 
 ---
 
