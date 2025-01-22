@@ -19,7 +19,7 @@ Année : 2017-2018
 
 - Implémenter une architecture MVC pour séparer les responsabilités.
 
-- Illustrer des concepts tels que l'Observer, le Singleton, la Façade, et bien d'autres.
+- Illustrer des concepts tels que l'Observer Observable, le Singleton, la Façade, et bien d'autres.
   
 
 ## Présentation du Projet
