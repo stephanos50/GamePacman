@@ -1,5 +1,5 @@
 # Pacem - README Technique
-Année : 2017-2018
+Anc3 Etudiants 2016-2017 /
 ## Table des Matières
 1. [Présentation du Projet](#presentation-du-projet)
 2. [Prérequis](#prerequis)
